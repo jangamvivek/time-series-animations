@@ -19,6 +19,6 @@ https://github.com/user-attachments/assets/183c24ae-9bc0-4c2d-9209-c9627d18264c
 
 Using stock data from [nasdaq.com](https://www.nasdaq.com/market-activity/stocks/nvda/historical), animate the prices of Nvidia, AMD, & Intel over time. Each of their daily prices can be found in the [./data](https://github.com/jangamvivek/time-series-animations/tree/main/data) folder.
 
-The animation is created in [animated_graph.py]((https://github.com/jangamvivek/time-series-animations/blob/main/animated_graph.py))
+The animation is created in [animated_graph.py](https://github.com/jangamvivek/time-series-animations/blob/main/animated_graph.py)
 
 
