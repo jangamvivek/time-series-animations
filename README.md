@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/2b8bc8b4-e7e6-4874-b013-ac548937a5af
 
 Using the [UN World Population Prospects](https://population.un.org/wpp/Download/Standard/MostUsed) dataset, we can create a bar chart race graph with Matplotlib.
 
-the animation code is in [line_graph_animation.py](https://github.com/jangamvivek/time-series-animations/blob/main/line_graph_animation_speedrun.py)
+the animation code is in [line_graph_animation_speedrun.py](https://github.com/jangamvivek/time-series-animations/blob/main/line_graph_animation_speedrun.py)
 
 
 Line Graph Information
